@@ -157,9 +157,9 @@ The `contact.html` page includes a basic contact form using these fields:
 ## 👨‍💻 Author
 
 **Mochamad Rizki**
-Full Stack Developer
-🌐 [rizkilabs.com](https://rizkilabs.com)
-📧 [rizkilabs.dev@gmail.com](mailto:rizkilabs.dev@gmail.com)
+Full Stack Developer <br>
+🌐 [rizkilabs.com](https://rizkilabs.com) <br>
+📧 [rizkilabs.dev@gmail.com](mailto:rizkilabs.dev@gmail.com) <br>
 🔗 [LinkedIn](https://linkedin.com/in/rizkilabs)
 
 ---
